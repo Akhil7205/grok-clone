@@ -1,6 +1,6 @@
 # 💬 Chat with Groq (Meta-LLaMA) – Streamlit App  
 
-![Chatbot Banner](https://github.com/streamlit/streamlit/raw/develop/docs/images/brand/streamlit-mark-color.png)  
+ <img src="Assests\grok-clone.jpeg">
 
 This is a simple **Streamlit-based chatbot** powered by **Groq (Meta-LLaMA)**.  
 It maintains chat history and provides responses in a conversational format.  
